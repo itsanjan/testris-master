@@ -1,0 +1,5 @@
+23:40:03 **** Rebuild of configuration Debug for project testris-main ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\testris-main.o" "..\\src\\testris-main.cpp" 
+g++ -o testris-main.exe "src\\testris-main.o" 
+Info: Nothing to build for testris-main
